@@ -6,11 +6,11 @@ A project demonstrating the use of Azure to host a static website, as well as co
 
 **Architecture/Design decisions**
 
-A decision I made before producing anything for this project was to configure a Budget alert, this would help me monitor how much I spend on azure each month for all projects.
+Before producing any resources for this project I configured a Budget alert, this would help me monitor how much I spend on Azure each month for all projects.
 
-I had pre made a resource group within a nearby region. Having a resource group created meant the static web app could be created.
+A pre existing Resource group within a nearby region. Having a resource group created meant the static web app could be created.
 
-Linking my github account allowed me to use this repsoitry as a host for all storage files, this avoids the need to manually provision and managae Azure Blob Storage or other Storage services that azure offers.
+Linking my github account allowed me to use this repsoitry as a host for all storage files, this avoids the need to manually provision and managae Azure Blob Storage or other Storage services that Azure offers.
 
 <img width="1632" height="687" alt="image" src="https://github.com/user-attachments/assets/65552668-fcfa-439b-8d80-24b00e6ab171" />
 
@@ -39,7 +39,7 @@ Another error that can be pointed out by the Screenshot above was the App locati
 **What I learnt**
 I Learnt the importance of organisation during troubleshooting and how valuable the skill is to have
 
-How to setup and configure a static web app sucessfully without azure storage services
+How to setup and configure a static web app successfully
 
 **Cleanup and Cost Management**
 As best industry practice I deleted all resources used except the website included in this respositry this avoid any unwanted space being used up and any unecessary costs occuring.

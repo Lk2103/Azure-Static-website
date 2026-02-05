@@ -20,13 +20,13 @@ Linking my github account allowed me to use this repository as a host for all st
 *Screenshot showing the summary of configuration for the Static Web App*
 
 <img width="1912" height="1019" alt="image" src="https://github.com/user-attachments/assets/15410e8a-1072-4280-b0d2-3b88eb148a40" />
-*Screenshot of Static Web App summary screen(Clicking "visit your site" presented a welcome screen instead of my website example*
+*Screenshot of Static Web App summary screen(Clicking visit your site presented a welcome screen instead of my website example*
 
 **Issues Encountered**
 
 To resolve the website not being presented problem we first needed to go back to my github respositry.
 
-After Investigation, I realised two issues:
+After Investigation, **I realised two issues**:
 
 My webpage initially was not called index.html(Default name that web servers search for)
 
@@ -43,6 +43,7 @@ After correcting these issues, the workflow on github completed sucessfuly and t
 *Successful deployment of website shown by workflow status tick*
 
 **What I learnt**
+
 I Learnt the importance of organisation during troubleshooting and how valuable the skill is to have
 
 How to configure and provision an Azure Static Web App
@@ -52,4 +53,5 @@ How to troubleshoot deployment issues using Github Actions
 How to manage cloud cost through various management systems such as Budget Alerts
 
 **Cleanup and Cost Management**
+
 As best industry practice I deleted all resources used except the website included in this respositry this avoid any unwanted space being used up and any unecessary costs occuring.

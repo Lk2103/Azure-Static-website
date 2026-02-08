@@ -10,7 +10,7 @@ Before producing any resources for this project I configured a Budget alert, thi
 
 A pre existing Resource group within a nearby region was used to deploy the Static Web App.
 
-Linking my github account allowed me to use this repository as a host for all storage files, this avoids the need to manually provision and managae Azure Blob Storage or other Storage services that Azure offers.
+Linking my github account allowed me to use this repository as a host for all storage files, this avoids the need to manually provision and manage Azure Blob Storage or other Storage services that Azure offers.
 
 <img width="1632" height="687" alt="image" src="https://github.com/user-attachments/assets/65552668-fcfa-439b-8d80-24b00e6ab171" />
 

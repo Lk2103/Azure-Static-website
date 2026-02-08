@@ -24,7 +24,7 @@ Linking my github account allowed me to use this repository as a host for all st
 
 **Issues Encountered**
 
-To resolve the website not being presented problem we first needed to go back to my github respositry.
+To resolve the problem of the website not being presented I first needed to go back to my github respositry.
 
 After Investigation, **I realised two issues**:
 

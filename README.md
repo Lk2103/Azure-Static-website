@@ -19,7 +19,8 @@ Linking my github account allowed me to use this repository as a host for all st
 <img width="1503" height="757" alt="image" src="https://github.com/user-attachments/assets/9e58a83c-4878-4852-bafd-edc7082aea21" />
 *Screenshot showing the summary of configuration for the Static Web App*
 
-<img width="1912" height="1019" alt="image" src="https://github.com/user-attachments/assets/15410e8a-1072-4280-b0d2-3b88eb148a40" />
+<img width="1912" height="841" alt="Web app summary Screen" src="https://github.com/user-attachments/assets/fd3be91d-3b53-4732-aef1-4b569cbae8c9" />
+
 *Screenshot of Static Web App summary screen*
 
 **Issues Encountered**
@@ -32,13 +33,13 @@ My webpage initially was not called index.html(Default name that web servers sea
 
 The App Location was incorrect(A local pathway instead of linking to github repository)
 
-<img width="1872" height="912" alt="image" src="https://github.com/user-attachments/assets/1569bcb9-93fa-485f-92b3-6179e2d525dc" />
+<img width="1872" height="794" alt="Errors encountered" src="https://github.com/user-attachments/assets/fa6b0811-824a-475b-818f-26c7e439062e" />
 
 *Screenshot of workflow code that was produced when the web app was formed and linked to Github*
 
 After correcting these issues, the workflow on github completed sucessfully and the website was deployed as expected.
 
-<img width="1919" height="920" alt="image" src="https://github.com/user-attachments/assets/02a76eb2-93b6-4be3-99a0-1554277463ab" />
+<img width="1919" height="827" alt="Workflow status" src="https://github.com/user-attachments/assets/9fbf53de-0dc3-4681-a9c9-8627f80f5bd0" />
 
 *Successful deployment of website shown by workflow status tick*
 

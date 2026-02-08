@@ -20,7 +20,7 @@ Linking my github account allowed me to use this repository as a host for all st
 *Screenshot showing the summary of configuration for the Static Web App*
 
 <img width="1912" height="1019" alt="image" src="https://github.com/user-attachments/assets/15410e8a-1072-4280-b0d2-3b88eb148a40" />
-*Screenshot of Static Web App summary screen(Clicking visit your site presented a welcome screen instead of my website example*
+*Screenshot of Static Web App summary screen*
 
 **Issues Encountered**
 

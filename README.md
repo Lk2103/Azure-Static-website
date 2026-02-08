@@ -36,7 +36,7 @@ The App Location was incorrect(A local pathway instead of linking to github repo
 
 *Screenshot of workflow code that was produced when the web app was formed and linked to Github*
 
-After correcting these issues, the workflow on github completed sucessfuly and the website was deployed as expected.
+After correcting these issues, the workflow on github completed sucessfully and the website was deployed as expected.
 
 <img width="1919" height="920" alt="image" src="https://github.com/user-attachments/assets/02a76eb2-93b6-4be3-99a0-1554277463ab" />
 

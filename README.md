@@ -8,7 +8,7 @@ A project demonstrating the use of Azure to host a static website, as well as co
 
 Before producing any resources for this project I configured a Budget alert, this would help me monitor how much I spend on Azure each month for all projects.
 
-A pre existing Resource group within a nearby region was usedto deploy the Static Web App.
+A pre existing Resource group within a nearby region was used to deploy the Static Web App.
 
 Linking my github account allowed me to use this repository as a host for all storage files, this avoids the need to manually provision and managae Azure Blob Storage or other Storage services that Azure offers.
 

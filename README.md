@@ -1,4 +1,4 @@
-# Static-website
+# Azure-Static-website-Project
 
 **Project Overview**
 
